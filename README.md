@@ -13,5 +13,5 @@ I am a Computer Science student at RMUTSB
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 </div>
 
-### Github Status
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=worawutyachaiya&theme=aura_dark)
+<!--### Github Status-->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=worawutyachaiya&theme=aura_dark)-->
