@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Worawut (Get) 👋
 
 I am a Computer Science student at RMUTSB
+
+I have already taken this course: https://www.udemy.com/course/the-complete-web-development-bootcamp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
