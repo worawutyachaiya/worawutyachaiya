@@ -13,5 +13,18 @@ I am a Computer Science student at RMUTSB
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 </div>
 
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=worawutyachaiya&theme=react&show_icons=true&count_private=true&hide_border=true" />
+      <br></br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=worawutyachaiya&theme=react&hide_border=true" alt="worawutyachaiya" />
+    </td>
+    <td width="80%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pratchaya0&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=8&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
 <!--### Github Status-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=worawutyachaiya&theme=aura_dark)-->
